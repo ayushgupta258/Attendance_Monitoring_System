@@ -12,7 +12,7 @@ String emp2="8400811FA0BA";
 String emp3="120088F3EA83";
 String emp4="55000CAAAE5D";
 int len;
-String total[ 4]={"Aarti","Ayush","Prachi","Yukti"};
+String total[ 4]={"ABC","DEF","GHI","XYZ"};
 int present[4]={0,0,0,0};
 int i;
 String bt="*";
